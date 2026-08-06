@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Data-Sources = "NHTSA vPIC (Public Domain), EPA FuelEconomy.gov (Public Domain - Credits: EPA/DOE)"
